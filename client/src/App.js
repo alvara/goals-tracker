@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import { Container, Row, Col } from 'react-bootstrap';
 
 function App() {
